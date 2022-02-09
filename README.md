@@ -29,7 +29,7 @@ The box-and-whisker plot and pie chart below display driver counts(total numbers
 ### Fare Counts by City Type
 The box-and-whisker plot, pie chart, multi line graph below display fares (total numbers, dollars, and percentage). The box-and-whisker plot shows the highest dollar fares are for rides in rural cities(over $35). The pie chart shows that urban cities have the highest percentage of total fares (over 62%). The multi line graph shows total weekly fares for each city type. As expected, urbahn cities generate the highest revenue. 
 
-![Vis6](/analysis/Pyber3.PNG)
+![Vis6](/analysis/pyber9.PNG)
 ![Vis7](/analysis/pyber5.PNG)
 ![Fare_Summary](/analysis/Pyber8.PNG) 
 
