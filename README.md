@@ -11,13 +11,13 @@ Pyber intends to get a better understanding of ride-sharing by city type, driver
 ### Overview of City Types
 The bubble chart below displays the total number of rides, drivers, and the average fare by city type (urban, suburban, rural). 
 
-![Vis1](/analysis/Pyber1.PNG)
+![Vis1](/analysis/pyber1.PNG)
 
 ### Ride Counts by City Type
 
 The box-and-whisker plot and pie chart below display ride counts by city type. The box-and-whisker plot indicates that the urban ride count data includes an outlier with 39 rides in one city. The pie chart shows that urban cities have the highest percentage of total rides with 68.4% of rides. The Suburbs are next with 26.3% total rides. Lastly, rural cities have 5.3%.
 
-![Vis2](/analysis/Pyber2.PNG)
+![Vis2](/analysis/pyber2.PNG)
 ![Vis3](/analysis/Pyber6.PNG)
 
 ### Driver Counts by City Type
