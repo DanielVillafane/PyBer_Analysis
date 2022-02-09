@@ -18,19 +18,19 @@ The bubble chart below displays the total number of rides, drivers, and the aver
 The box-and-whisker plot and pie chart below display ride counts by city type. The box-and-whisker plot indicates that the urban ride count data includes an outlier with 39 rides in one city. The pie chart shows that urban cities have the highest percentage of total rides with 68.4% of rides. The Suburbs are next with 26.3% total rides. Lastly, rural cities have 5.3%.
 
 ![Vis2](/analysis/pyber2.PNG)
-![Vis3](/analysis/Pyber6.PNG)
+![Vis3](/analysis/pyber6.PNG)
 
 ### Driver Counts by City Type
 The box-and-whisker plot and pie chart below display driver counts(total numbers and percentage) by city type. As expected, urbahn areas have the highest number of drivers and make up over 80% of the driver pool.
 
-![Vis4](/analysis/Pyber4.PNG)
+![Vis4](/analysis/pyber4.PNG)
 ![Vis5](/analysis/Pyber7.PNG)
 
 ### Fare Counts by City Type
 The box-and-whisker plot, pie chart, multi line graph below display fares (total numbers, dollars, and percentage). The box-and-whisker plot shows the highest dollar fares are for rides in rural cities(over $35). The pie chart shows that urban cities have the highest percentage of total fares (over 62%). The multi line graph shows total weekly fares for each city type. As expected, urbahn cities generate the highest revenue. 
 
 ![Vis6](/analysis/Pyber3.PNG)
-![Vis7](/analysis/Pyber5.PNG)
+![Vis7](/analysis/pyber5.PNG)
 ![Fare_Summary](/analysis/Pyber8.PNG) 
 
 ## Summary
